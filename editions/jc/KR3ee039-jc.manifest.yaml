@@ -1,0 +1,54 @@
+canonical_identifier: bkk:krp/KR3ee039/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ee039/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 脈度運行考
+  identifiers:
+    krp: KR3ee039
+  tags:
+    kr-categories: KR3ee
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee039.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ee039_000-jc.yaml, hash: 'sha256:82d9011744f1f3e056225792e1057a3d058e52e47827ee92868c1e4d4c3f3f01'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ee039_000-jc.markers.yaml, hash: 'sha256:e065648ab9200b15771b4f1f882e0b76beb5091d9dc4f0b0128f064000044f74'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ee039_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 387
+  label: 內經營氣脈度運行考自敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee039_jc_000-d3.h1s1
+    span:
+    - body
+    - 387
+    - 1673
+  label: 內經脈度營氣運行各經時刻分數考
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ee039_jc_000-d4.h1s1
+    span:
+    - body
+    - 1673
+    - 2254
+  label: 附營氣脈度運行六言歌
+  type: section
+  level: 1
+hash: sha256:fc3f9efd0ba1e6071ab9b7d5282a0dfb636a9f61219bd862eac02a638253ac90
