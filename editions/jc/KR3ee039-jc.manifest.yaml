@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ee039_000-jc.yaml, hash: 'sha256:82d9011744f1f3e056225792e1057a3d058e52e47827ee92868c1e4d4c3f3f01'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee039_000-jc.markers.yaml, hash: 'sha256:e065648ab9200b15771b4f1f882e0b76beb5091d9dc4f0b0128f064000044f74'}
+  - {seq: 0, role: markers, filename: assets/KR3ee039_000-jc.markers.yaml, hash: 'sha256:4a8cdf387a4625dd5391b722348b139957ba65b769d3a142ce1a1fb5b7868c37'}
 table_of_contents:
 - ref:
     seq: 0
@@ -51,4 +51,4 @@ table_of_contents:
   label: 附營氣脈度運行六言歌
   type: section
   level: 1
-hash: sha256:fc3f9efd0ba1e6071ab9b7d5282a0dfb636a9f61219bd862eac02a638253ac90
+hash: sha256:668b711c98f98f8d3d33946d1806b34c938c51a6811208b57330013bb8001b90

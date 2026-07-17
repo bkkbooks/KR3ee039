@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ee039_000.yaml, hash: 'sha256:348be95bc01dc1e2b455ccb2777703535d26d02c1b93fa24d99e5a166a8dbf5c'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ee039_000.markers.yaml, hash: 'sha256:d7d59cda73320df379dcd04a2423d625e6f5a9f143c35596d43b893b849f431d'}
+  - {seq: 0, role: markers, filename: assets/KR3ee039_000.markers.yaml, hash: 'sha256:1937df3a54bf95376436629aebf2134fc938499bb4af8f916f5e907a553a7f92'}
 table_of_contents:
 - ref:
     seq: 0
@@ -51,7 +51,7 @@ table_of_contents:
   label: 附營氣脈度運行六言歌
   type: section
   level: 1
-hash: sha256:737de5c2a6c4e891772874b5f7bee69b98c7dbae3536a2253875677653320249
+hash: sha256:bf76c3c8cca38075d51b7c82f6d78ad35a6b88dc59821f9a75854b5b8203bc41
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
